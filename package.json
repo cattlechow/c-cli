@@ -1,0 +1,28 @@
+{
+  "name": "ca-cli",
+  "version": "1.0.0",
+  "description": "This is a command-line interface (CLI) tool for scaffolding new React projects and components.",
+  "main": "index.js",
+  "bin": {
+    "ca-cli": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cattlechow/ca-cli.git"
+  },
+  "homepage": "https://github.com/cattlechow/ca-cli",
+  "author": "cattlechow",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.1",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.5",
+    "mkdirp": "^3.0.0"
+  }
+}
