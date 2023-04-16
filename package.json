@@ -1,5 +1,5 @@
 {
-  "name": "ca-cli",
+  "name": "ca-react-cli",
   "version": "1.0.0",
   "description": "This is a command-line interface (CLI) tool for scaffolding new React projects and components.",
   "main": "index.js",
